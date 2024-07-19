@@ -1,0 +1,103 @@
+com/example/weather/weatherforecast/di/ContextModule_ProvideContextFactory.java
+ com.example.weather.weatherforecast.di.ContextModule_ProvideContextFactory
+com/example/weather/weatherforecast/databinding/FragmentCityWeatherBinding.java
+ com.example.weather.weatherforecast.databinding.FragmentCityWeatherBinding
+com/example/weather/weatherforecast/utils/viewmodel/ViewModelFactory_Factory.java
+ com.example.weather.weatherforecast.utils.viewmodel.ViewModelFactory_Factory
+com/example/weather/weatherforecast/di/PrefsModule_ProvidePrefsEditorFactory.java
+ com.example.weather.weatherforecast.di.PrefsModule_ProvidePrefsEditorFactory
+com/example/weather/weatherforecast/features/home/domain/GetCityWeatherByIdUseCase_Factory.java
+ com.example.weather.weatherforecast.features.home.domain.GetCityWeatherByIdUseCase_Factory
+com/example/weather/weatherforecast/features/home/domain/SearchForCityUseCase_Factory.java
+ com.example.weather.weatherforecast.features.home.domain.SearchForCityUseCase_Factory
+com/example/weather/weatherforecast/di/WebServiceModule_ProvideMainRetrofitFactory.java
+ com.example.weather.weatherforecast.di.WebServiceModule_ProvideMainRetrofitFactory
+com/example/weather/weatherforecast/databinding/ActivityMainBinding.java
+ com.example.weather.weatherforecast.databinding.ActivityMainBinding
+com/example/weather/weatherforecast/databinding/LayoutProgressBinding.java
+ com.example.weather.weatherforecast.databinding.LayoutProgressBinding
+com/example/weather/weatherforecast/di/WebServiceModule_ProvideOkHttpClientFactory.java
+ com.example.weather.weatherforecast.di.WebServiceModule_ProvideOkHttpClientFactory
+com/example/weather/weatherforecast/di/RoomModule_ProvidePatientsDaoFactory.java
+ com.example.weather.weatherforecast.di.RoomModule_ProvidePatientsDaoFactory
+com/example/weather/weatherforecast/features/home/domain/PopulateCitiesUseCase_Factory.java
+ com.example.weather.weatherforecast.features.home.domain.PopulateCitiesUseCase_Factory
+com/example/weather/weatherforecast/features/home/domain/SetDefaultCityUseCase_Factory.java
+ com.example.weather.weatherforecast.features.home.domain.SetDefaultCityUseCase_Factory
+com/example/weather/weatherforecast/di/PrefsModule_ProvidePrefsFactory.java
+ com.example.weather.weatherforecast.di.PrefsModule_ProvidePrefsFactory
+com/example/weather/weatherforecast/features/home/ui/activities/MainActivity_MembersInjector.java
+ com.example.weather.weatherforecast.features.home.ui.activities.MainActivity_MembersInjector
+com/example/weather/weatherforecast/features/home/ui/fragments/SearchCityFragment_MembersInjector.java
+ com.example.weather.weatherforecast.features.home.ui.fragments.SearchCityFragment_MembersInjector
+com/example/weather/weatherforecast/di/RoomModule_ProvideWeathersDaoFactory.java
+ com.example.weather.weatherforecast.di.RoomModule_ProvideWeathersDaoFactory
+com/example/weather/weatherforecast/features/home/data/local/CitiesDao_Impl.java
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$1
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$10
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$11
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$2
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$3
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$4
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$5
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$6
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$7
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$8
+ com.example.weather.weatherforecast.features.home.data.local.CitiesDao_Impl$9
+com/example/weather/weatherforecast/features/home/domain/GetAllCitiesUseCase_Factory.java
+ com.example.weather.weatherforecast.features.home.domain.GetAllCitiesUseCase_Factory
+com/example/weather/weatherforecast/features/home/domain/GetFavoriteCitiesUseCase_Factory.java
+ com.example.weather.weatherforecast.features.home.domain.GetFavoriteCitiesUseCase_Factory
+com/example/weather/weatherforecast/databinding/ItemWeatherForecastBinding.java
+ com.example.weather.weatherforecast.databinding.ItemWeatherForecastBinding
+com/example/weather/weatherforecast/features/home/ui/fragments/HomeFragment_MembersInjector.java
+ com.example.weather.weatherforecast.features.home.ui.fragments.HomeFragment_MembersInjector
+com/example/weather/weatherforecast/features/home/domain/UpdateCityUseCase_Factory.java
+ com.example.weather.weatherforecast.features.home.domain.UpdateCityUseCase_Factory
+com/example/weather/weatherforecast/BuildConfig.java
+ com.example.weather.weatherforecast.BuildConfig
+com/example/weather/weatherforecast/features/home/ui/viewmodels/WeatherViewModel_Factory.java
+ com.example.weather.weatherforecast.features.home.ui.viewmodels.WeatherViewModel_Factory
+com/example/weather/weatherforecast/di/DaggerAppComponent.java
+ com.example.weather.weatherforecast.di.DaggerAppComponent
+ com.example.weather.weatherforecast.di.DaggerAppComponent$1
+ com.example.weather.weatherforecast.di.DaggerAppComponent$Factory
+com/example/weather/weatherforecast/features/home/data/local/WeathersDao_Impl.java
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$1
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$10
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$11
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$2
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$3
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$4
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$5
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$6
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$7
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$8
+ com.example.weather.weatherforecast.features.home.data.local.WeathersDao_Impl$9
+com/example/weather/weatherforecast/utils/db/MainRoomDatabase_Impl.java
+ com.example.weather.weatherforecast.utils.db.MainRoomDatabase_Impl
+ com.example.weather.weatherforecast.utils.db.MainRoomDatabase_Impl$1
+com/example/weather/weatherforecast/databinding/FragmentSearchCityBinding.java
+ com.example.weather.weatherforecast.databinding.FragmentSearchCityBinding
+com/example/weather/weatherforecast/utils/SessionManager_Factory.java
+ com.example.weather.weatherforecast.utils.SessionManager_Factory
+com/example/weather/weatherforecast/features/home/data/CitiesRepositoryImpl_Factory.java
+ com.example.weather.weatherforecast.features.home.data.CitiesRepositoryImpl_Factory
+com/example/weather/weatherforecast/features/home/ui/fragments/CityWeatherFragment_MembersInjector.java
+ com.example.weather.weatherforecast.features.home.ui.fragments.CityWeatherFragment_MembersInjector
+com/example/weather/weatherforecast/databinding/FragmentHomeBinding.java
+ com.example.weather.weatherforecast.databinding.FragmentHomeBinding
+com/example/weather/weatherforecast/databinding/ItemCityBinding.java
+ com.example.weather.weatherforecast.databinding.ItemCityBinding
+com/example/weather/weatherforecast/di/RoomModule_ProvidesRoomDatabaseFactory.java
+ com.example.weather.weatherforecast.di.RoomModule_ProvidesRoomDatabaseFactory
+com/example/weather/weatherforecast/di/WebServiceModule_ProvideWeatherApiServiceFactory.java
+ com.example.weather.weatherforecast.di.WebServiceModule_ProvideWeatherApiServiceFactory
+com/example/weather/weatherforecast/di/annotitions/MainRetrofit.java
+ com.example.weather.weatherforecast.di.annotitions.MainRetrofit
+com/example/weather/weatherforecast/databinding/ContentMainBinding.java
+ com.example.weather.weatherforecast.databinding.ContentMainBinding
+com/example/weather/weatherforecast/databinding/LayoutFavoriteCheckboxBinding.java
+ com.example.weather.weatherforecast.databinding.LayoutFavoriteCheckboxBinding

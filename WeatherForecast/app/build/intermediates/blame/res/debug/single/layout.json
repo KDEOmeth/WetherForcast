@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_favorite_checkbox.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\layout_favorite_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_progress.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\layout_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_city.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\item_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_city_weather.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\fragment_city_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_weather_forecast.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\item_weather_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search_city.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\fragment_search_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\ASUS\\Dropbox\\PC\\Downloads\\hgch\\New folder\\WeatherForecast-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    }
+]

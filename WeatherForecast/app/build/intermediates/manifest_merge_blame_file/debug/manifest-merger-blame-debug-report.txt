@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bugevil.mhelmi.weatherforecast"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:6:3-65
+11-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:6:20-62
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:7:3-77
+12-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:7:20-74
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:8:3-79
+13-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:8:20-76
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:9:3-77
+14-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:9:20-74
+15
+16    <application
+16-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:11:3-35:17
+17        android:name="com.example.weather.weatherforecast.App"
+17-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:12:5-59
+18        android:allowBackup="false"
+18-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:13:5-32
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.3.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\c6a3368f092b12e108805a8c7a4d99cb\core-1.3.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:14:5-39
+22        android:label="@string/app_name"
+22-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:15:5-37
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:16:5-50
+24        android:supportsRtl="true"
+24-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:17:5-31
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme"
+26-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:18:5-36
+27        android:usesCleartextTraffic="true" >
+27-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:19:5-40
+28        <activity
+28-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:21:5-34:16
+29            android:name="com.example.weather.weatherforecast.features.home.ui.activities.MainActivity"
+29-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:22:7-98
+30            android:label="@string/app_name"
+30-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:23:7-39
+31            android:theme="@style/AppTheme.NoActionBar" >
+31-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:24:7-50
+32            <intent-filter>
+32-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:25:7-29:23
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:26:9-61
+33-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:26:17-58
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:28:9-69
+35-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:28:19-66
+36            </intent-filter>
+37
+38            <meta-data
+38-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:31:7-33:46
+39                android:name="android.app.searchable"
+39-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:32:9-46
+40                android:resource="@xml/searchable" />
+40-->C:\Users\ASUS\Dropbox\PC\Downloads\hgch\New folder\WeatherForecast-master\app\src\main\AndroidManifest.xml:33:9-43
+41        </activity>
+42        <activity
+42-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\2b65840c08cf0bf06b0ce52d8b1bf258\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+43            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+43-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\2b65840c08cf0bf06b0ce52d8b1bf258\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+44            android:exported="false"
+44-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\2b65840c08cf0bf06b0ce52d8b1bf258\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+45            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+45-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\2b65840c08cf0bf06b0ce52d8b1bf258\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+46
+47        <meta-data
+47-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\3f0455c786241d53081dd092cff5b32c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+48            android:name="com.google.android.gms.version"
+48-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\3f0455c786241d53081dd092cff5b32c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+49            android:value="@integer/google_play_services_version" />
+49-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\3f0455c786241d53081dd092cff5b32c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+50
+51        <service
+51-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28d066da6810bb5265b41b4636c38b51\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+52            android:name="androidx.room.MultiInstanceInvalidationService"
+52-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28d066da6810bb5265b41b4636c38b51\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+53            android:directBootAware="true"
+53-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28d066da6810bb5265b41b4636c38b51\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+54            android:exported="false" />
+54-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28d066da6810bb5265b41b4636c38b51\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+55    </application>
+56
+57</manifest>
